@@ -1,2 +1,3 @@
-# okno
-Test Drive Ghost md
+# O? Kno //  
+Cloned from http://okno.ghost.io/
+and will be hosted on openshift 
