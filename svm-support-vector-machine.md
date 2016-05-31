@@ -1,3 +1,4 @@
+#svm: support-vector-machine
 這是一種很強大的分類/迴歸器。但他的背後理論需要一點努力及數學才方便了解，也便於後續的 tuning。
 
 1. [Andrew Ng](http://www.andrewng.org/)
